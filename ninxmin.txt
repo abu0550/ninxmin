@@ -1,1 +1,8 @@
 <html> intro to git
+
+git command
+1 git init
+2. git add .
+git commit -m ""
+git remote add origin ""
+git push -u origin master
